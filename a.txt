@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adfsadf:
+=======
+dagdfasd
+>>>>>>> 2e03ebb (3)
